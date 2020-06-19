@@ -4,8 +4,8 @@
       <div class="container">
         <div class="slider-caption slider-caption-center">
           <div>
-            <img :src="require('@/assets/images/logotipo.svg')" style="max-width: 50%" data-animate="rotateIn"/>
-            <img :src="require('@/assets/images/grupo_tipografia_white.svg')" data-animate="fadeInUpBig" data-delay="300"/>
+            <img :src="require('@/assets/images/logotipo.svg')" style="max-width: 40%" data-animate="rotateIn"/>
+            <img :src="require('@/assets/images/grupo_bar_white.svg')" data-animate="bounceInRight" data-delay="800" style="max-width: 60%"/>
             <!--<h2 data-animate="bounceInRight" data-delay="100">{{msg}}</h2>-->
           </div>
         </div>
